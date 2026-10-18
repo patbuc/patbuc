@@ -15,7 +15,7 @@ Engineering leader in Luzern, Switzerland. Engineering Director at
 
 - [Neon](https://github.com/patbuc/neon), a toy programming language in Rust
   that aims for the speed of non-JIT interpreters like Python
-- Tinker with distributed systems
+- Run, cycle and ski, read, cook, and nerd out about music
 
 **Elsewhere**
 
