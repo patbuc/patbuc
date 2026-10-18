@@ -1,5 +1,7 @@
 ### Hi, I'm Patric
 
+Coding for a living 💻 | Keep calm, have a 🍉
+
 Engineering leader in Luzern, Switzerland. Engineering Director at
 [LumApps](https://www.lumapps.com), before that Tech Lead at Beekeeper.
 20 years from hands-on engineer to director, and I still write code every week.
