@@ -4,17 +4,17 @@ Engineering leader in Luzern, Switzerland. Engineering Director at
 [LumApps](https://www.lumapps.com), before that Tech Lead at Beekeeper.
 20 years from hands-on engineer to director, and I still write code every week.
 
-**What I work on**
+**What I do at work**
 
-- AI-native development: coding agents (Claude Code, OpenCode) and the
-  workflows that make teams faster with them
-- Distributed systems and real-time chat (MongooseIM, XMPP)
-- Python, Java and Rust
+- Lead engineering teams and grow engineers into tech leads
+- Build and run distributed systems and real-time chat
+- Write code in Python, Java, Rust and C#
 
-**On the side**
+**What I do when I'm not at work**
 
 - [Neon](https://github.com/patbuc/neon), a toy programming language in Rust
   that aims for the speed of non-JIT interpreters like Python
+- Tinker with distributed systems
 
 **Elsewhere**
 
