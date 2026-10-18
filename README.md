@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Patric
 
-<!--
-**patbuc/patbuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering leader in Luzern, Switzerland. Engineering Director at
+[LumApps](https://www.lumapps.com), before that Tech Lead at Beekeeper.
+20 years from hands-on engineer to director, and I still write code every week.
 
-Here are some ideas to get you started:
+**What I work on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-native development: coding agents (Claude Code, OpenCode) and the
+  workflows that make teams faster with them
+- Distributed systems and real-time chat (MongooseIM, XMPP)
+- Python, Java and Rust
+
+**On the side**
+
+- [Neon](https://github.com/patbuc/neon), a toy programming language in Rust
+  that aims for the speed of non-JIT interpreters like Python
+
+**Elsewhere**
+
+[patbuc.dev](https://patbuc.dev) · [LinkedIn](https://www.linkedin.com/in/patricbucher)
