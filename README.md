@@ -18,4 +18,6 @@ I lead engineering teams and never stopped writing code.
 
 **Elsewhere**
 
-[patbuc.dev](https://patbuc.dev) · [LinkedIn](https://www.linkedin.com/in/patricbucher) · Keep calm, have a 🍉
+[patbuc.dev](https://patbuc.dev) · [LinkedIn](https://www.linkedin.com/in/patricbucher)
+
+Keep calm, have a 🍉
