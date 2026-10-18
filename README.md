@@ -1,7 +1,5 @@
 ### Hi, I'm Patric
 
-Coding for a living 💻 | Keep calm, have a 🍉
-
 Engineering leader in Luzern, Switzerland. Engineering Director at
 [LumApps](https://www.lumapps.com), before that Tech Lead at Beekeeper.
 20 years from hands-on engineer to director, and I still write code every week.
@@ -10,7 +8,8 @@ Engineering leader in Luzern, Switzerland. Engineering Director at
 
 - Lead engineering teams and grow engineers into tech leads
 - Build and run distributed systems and real-time chat
-- Write code in Python, Java, Rust and C#
+- Write code mostly in Python, Java, Rust and C#, and pick up whatever else a
+  problem needs
 
 **What I do when I'm not at work**
 
@@ -20,4 +19,4 @@ Engineering leader in Luzern, Switzerland. Engineering Director at
 
 **Elsewhere**
 
-[patbuc.dev](https://patbuc.dev) · [LinkedIn](https://www.linkedin.com/in/patricbucher)
+[patbuc.dev](https://patbuc.dev) · [LinkedIn](https://www.linkedin.com/in/patricbucher) · Keep calm, have a 🍉
