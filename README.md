@@ -4,8 +4,11 @@ I lead engineering teams and never stopped writing code.
 
 **At work**
 
+- Lead teams that own what they build, from architecture to on-call
+- Keep technology and process simple, and treat how people work together
+  as the hard problem
 - Grow engineers into tech leads
-- Build and run distributed systems and real-time chat
+- Build and run distributed systems
 - Code mostly in Python, Java, Rust and C#, and pick up whatever else a
   problem needs
 
